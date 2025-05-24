@@ -1,7 +1,7 @@
-# 🧠 Citadel Women’s Datathon 2025 – Gasoline Price Analysis
+# Citadel Women’s Datathon 2025 – Gasoline Price Analysis
 This project was developed during the Citadel Women’s Datathon 2025 (Europe), a 4-day event focused on real-world financial challenges. Our team investigated the volatility of gasoline prices in the U.S., exploring their relationship with consumer prices and the stock market.
 
-## 🚀 Project Overview
+## Project Overview
 **Objective:** Analyse lag-lead relationships between gasoline prices, consumer behavior, and stock market indicators.
 
 **Dataset:** Provided by Correlation One, containing historical gasoline prices, transport data, and stock indices.
